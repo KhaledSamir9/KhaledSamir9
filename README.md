@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**KhaledSamir9/KhaledSamir9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Khaled Samir<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+<h1>About Me! </h1>
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on Software Developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I graduated from Physical Education.
+-  I’m currently working JAVA Full stack development projects(spring Boot,Angular). 
+- I’m looking for help with anything I am currently learning! 
+-  Ask me about	J2SE & J2ee,	Web Services (Soap, Restful) ,	Spring Boot framework , 	Angular, HTML, CSS, Java Script, . 
+
+
+  
+
+
+
+  
+
+  
+  
+
+<Br>
+<h1>Tools I use! </h1>
+<Br>
+
+   •	Eclipse IDE, Visual Studio Code
+  <Br>
+   •	Version Control Software (GIT)
+ 
+
+
+<Br>
+<hr>
+<Br>
+<h1>Thank You! 🤵 </h1>
+<Br>
+
+ 
