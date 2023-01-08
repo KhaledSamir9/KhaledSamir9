@@ -6,7 +6,6 @@
 
  
 
--  I graduated from Physical Education.
 -  I’m currently working JAVA Full stack development projects(spring Boot,Angular). 
 - I’m looking for help with anything I am currently learning! 
 -  Ask me about	J2SE & J2ee,	Web Services (Soap, Restful) ,	Spring Boot framework , 	Angular, HTML, CSS, Java Script, . 
